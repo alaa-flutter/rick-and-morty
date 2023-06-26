@@ -1,4 +1,5 @@
 *.cmake linguist-detectable=false
 *.cpp linguist-detectable=false
 *.txt linguist-detectable=false
+*.c linguist-detectable=false
 
